@@ -4,7 +4,7 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "[Meals App](https://github.com/stamvas/MealsApp)"
     description:
-      - "An application that provides users with recipes based on the ingredients they have"
+      - "An application that integrates with TheMealDB API, enabling users to search, create and save their favorite foods, and generate PDF statistics if desired"
       - "Technology Used: Java, Swing, MySQL"
     # image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
   - title: "[Task Manager App](https://github.com/stamvas/task-management)"
