@@ -32,9 +32,9 @@
   </head>
 
   <body>
-    <div id="sidebar">
+    <!-- <div id="sidebar">
       <ul class="toc-box"></ul>
-    </div>
+    </div> -->
     <div id="about">
       <div class="profile-zone">
         <img
@@ -82,6 +82,7 @@
             <a
               aria-label="My LinkedIn"
               href="https://www.linkedin.com/in/{{ site.linkedin_username }}"
+              target="_blank"
             >
               <img
                 src="{{ '/assets/img/linkedin.svg' | prepend: site.baseurl }}"
@@ -95,6 +96,7 @@
             <a
               aria-label="My Github"
               href="https://github.com/{{ site.github_username }}"
+              target="_blank"
             >
               <img
                 src="{{ '/assets/img/github.svg' | prepend: site.baseurl }}"
@@ -219,7 +221,10 @@
     </div>
     <div id="footer">
       <span>
-        Copyright © 2024 | <a href="https://github.com/byanko55">Yankos</a>
+        Copyright © 2024 |
+        <a href="https://github.com/stamvas" target="_blank"
+          >Vasilis Stamatis</a
+        >
       </span>
     </div>
   </body>
