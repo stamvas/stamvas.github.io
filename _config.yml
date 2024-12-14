@@ -16,7 +16,7 @@ instagram_username: instagram
 twitter_username: twitter
 facebook_username: facebook
 youtube_username: youtube
-blog_url: Home
+blog_url: [Home](https://stamvas.github.io)
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
