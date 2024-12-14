@@ -2,12 +2,12 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "MealsApp"
+  - title: "[MealsApp](https://github.com/stamvas/MealsApp)"
     description:
       - "An application that provides users with recipes based on the ingredients they have"
       - "Technology Used: Java, Swing, MySQL"
     # image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "Task Manager"
+  - title: "[Task Manager](https://github.com/stamvas/task-management)"
     description:
       - "A task manager application that allows users to create, edit, and delete tasks"
       - "Technology Used: HTML, CSS, JavaScript, PHP, MySQL"
