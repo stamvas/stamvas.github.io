@@ -4,6 +4,8 @@ icon_img: /assets/img/icon.webp
 
 name: "Vasilis Stamatis"
 job: "Research Associate"
+  -          "@" 
+organization: "Information Technologies Institute, Centre for Research and Technology Hellas"
 # job:         "@"
 # job:   "VCL, ITI-CERTH"
 
