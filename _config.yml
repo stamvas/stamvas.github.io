@@ -4,8 +4,8 @@ icon_img: /assets/img/icon.webp
 
 name: "Vasilis Stamatis"
 job: "Research Associate"
-job:         "@"
-job:   "VCL, ITI-CERTH"
+# job:         "@"
+# job:   "VCL, ITI-CERTH"
 
 phone_number: 012-345-6789
 address: Thessaloniki, Greece
