@@ -572,17 +572,3 @@ a {
     }
   }
 }
-
-/*******/
-.home-link .link-text {
-  display: inline;
-}
-
-.home-link:hover .link-text {
-  display: none;
-}
-
-.home-link:hover::after {
-  content: "Home";
-  display: inline;
-}
