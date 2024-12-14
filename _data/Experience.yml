@@ -2,7 +2,7 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: VCL, ITI-CERTH
+  - title: [VCL, ITI-CERTH](https://vcl.iti.gr/)
     role: Reasearch Associate
     description:
       - Software development for the EU-funded project '*iPROLEPSIS*'
