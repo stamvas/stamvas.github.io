@@ -2,18 +2,22 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "[MealsApp](https://github.com/stamvas/MealsApp)"
+  - title: "[Meals App](https://github.com/stamvas/MealsApp)"
     description:
       - "An application that provides users with recipes based on the ingredients they have"
       - "Technology Used: Java, Swing, MySQL"
     # image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "[Task Manager](https://github.com/stamvas/task-management)"
+  - title: "[Task Manager App](https://github.com/stamvas/task-management)"
     description:
       - "A task manager application that allows users to create, edit, and delete tasks"
       - "Technology Used: HTML, CSS, JavaScript, PHP, MySQL"
     # image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  # - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))"
-  #   description:
-  #     - Machine learning library for applications such as computer vision and natural language processing
-  #     - "Technology Used: Python, Cuda, Objective-C++"
+  - title: "[Temperature Converter App](https://github.com/stamvas/temperature-converter-app)"
+    description:
+      - "A simple temperature converter application"
+      - "Technology Used: Java, Swing"
   #   image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+  - title: "[Moodle Platform](https://github.com/stamvas/moodle)"
+    description:
+      - "A platform that allows students to access course materials and submit assignments"
+      - "Technology Used: Moodle, App inventor, Learning Designer"
