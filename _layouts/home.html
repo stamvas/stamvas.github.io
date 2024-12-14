@@ -45,7 +45,7 @@
         <ul class="personal-info">
           {% if site.phone_number %}
           <li>
-            <a aria-label="My Phone">
+            <a aria-label="My Phone" href="tel:{{ site.phone_number }}">
               <img
                 src="{{ '/assets/img/phone.svg' | prepend: site.baseurl }}"
                 alt="My Phone Number"
