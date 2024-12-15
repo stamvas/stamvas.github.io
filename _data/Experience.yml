@@ -3,7 +3,7 @@ listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
   - title: "[Visual Computing Lab @ ITI-CERTH](https://vcl.iti.gr/)"
-    role: Reasearch Associate
+    role: Research Associate
     description:
       - Software development for the EU-funded project '*iPROLEPSIS*'
       - Development of a web-based platform for the management of the project
